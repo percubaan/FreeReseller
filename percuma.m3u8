@@ -8,5 +8,11 @@ https://agplayback03.aotg-video.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/JqFR0FS/goo.png",GoShop*
 https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP_04.m3u8
 
-#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="",tv3*
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/NTV7_logo_%282018%29.png/50px-NTV7_logo_%282018%29.png",NTV7*
+https://raw.githubusercontent.com/percubaan/cuba/master/Ntb7.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png",8TV*
+https://raw.githubusercontent.com/percubaan/cuba/master/8tb.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/NewlogoTV9_%28Malaysia%29.png/100px-NewlogoTV9_%28Malaysia%29.png",TV9*
+https://raw.githubusercontent.com/percubaan/cuba/master/tb9.m3u8
