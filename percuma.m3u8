@@ -40,3 +40,8 @@ https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b20640
 
 #EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Realmadrid-TV.jpg/220px-Realmadrid-TV.jpg",Real Madrid TV-(free)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://resources.redbull.com/logos/redbullcom/v1/redbullcom-logo.svg",Red Bull TV-(free)
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
