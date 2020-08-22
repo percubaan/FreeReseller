@@ -1,6 +1,8 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="",NOTICE GANGUAN INTERNET KABEL, HBO GROUP DOWN....
-....
+https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+
 #EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/RTM_HD_Sports.png/220px-RTM_HD_Sports.png",RTM Sports-(free)
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
