@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png", ASTRO HELLO
+https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
 
 #EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/RTM_HD_Sports.png/220px-RTM_HD_Sports.png",RTM Sports-(free)
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
@@ -9,12 +10,6 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.
 
 #EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/TV2_Logo_2011.png/100px-TV2_Logo_2011.png",TV2-(free)
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
-
-#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/100px-TV3_%28Malaysia%29.svg.png",TV3-(free)
-http://ts.lemmovie.com:80/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
-
-#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/100px-TV3_%28Malaysia%29.svg.png",TV3 Link 2-(free)
-http://50.7.161.82:8278/TV3/playlist.m3u8?tid=m977aefecd84b1826086&ct=18298&tsum=a03658210d90477bf0ca1eedfc622c15
 
 #EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/NTV7_logo_%282018%29.png/50px-NTV7_logo_%282018%29.png",NTV7-(free)
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
