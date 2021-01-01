@@ -1,13 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra-(free)
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-
 #EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png", Astro BOO-(free)
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-
 #EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png", Astro AEC-(free)
 http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
-
 #EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png", Astro AOD-(free)
 http://ts.lemmovie.com/4e402bba-d563-4f5a-8c48-75ea8bd8a44a.m3u8
 
