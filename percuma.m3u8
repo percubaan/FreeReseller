@@ -8,7 +8,8 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
 #EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png", Astro AOD-(free)
 http://ts.lemmovie.com/4e402bba-d563-4f5a-8c48-75ea8bd8a44a.m3u8
-
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png", Astro Hello-(free)
+http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 #EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/RTM_HD_Sports.png/220px-RTM_HD_Sports.png",RTM Sports-(free)
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
@@ -17,8 +18,6 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.
 
 #EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/TV2_Logo_2011.png/100px-TV2_Logo_2011.png",TV2-(free)
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
-#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="",TV3 Test-(free)
-https://raw.githubusercontent.com/percubaan/cuba/master/tb3.m3u8
 #EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7-(free)
 https://raw.githubusercontent.com/percubaan/cuba/master/Ntb7.m3u8
 #EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png",8TV-(free)
