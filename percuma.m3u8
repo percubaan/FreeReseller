@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="AstroRia.my" group-title="Malaysia" tvg-logo="https://{{MACAN_CDN_DOMAIN}}/img/astro_ria.png", Astro Ria-(M)
+https://raw.githubusercontent.com/percubaan/cuba/master/riah.m3u8
 #EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra-(free)
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/mFpw6Hh/cc.png", Astro BOO-(free)
