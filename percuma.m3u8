@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="AstroRia.my" group-title="Malaysia" tvg-logo="https://{{MACAN_CDN_DOMAIN}}/img/astro_ria.png", Astro Ria(M)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysia" tvg-logo="https://i.ibb.co/x1XhPKW/Whats-App-Image-2021-01-12-at-8-39-55-PM-1.jpg", SILA TONTON
+https://uc20ae3fd90544238e48ab505beb.dl.dropboxusercontent.com/cd/0/get/BG0kZhIkCXkyDwNRZK-6WGYwG68cKMwv5dJP3qfdOnSmDWcGen9u_aRS7DwipQnozGRgZNo-ptWFv7S-iaNFlrn_cz3R6u8-RviZH2c2OU3vSri5Lc_Muv-82p8sOhmd3Mo/file
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="AstroRia.my" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png", Astro Ria(M)
 https://raw.githubusercontent.com/percubaan/cuba/master/riah.m3u8
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="AstroRia.my" group-title="Malaysia" tvg-logo="https://{{MACAN_CDN_DOMAIN}}/img/astro_ria.png", Astro Ria(M)
-https://raw.githubusercontent.com/percubaan/cuba/master/riah.m3u8
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="AstroCeria.my" group-title="Malaysia" tvg-logo="https://{{MACAN_CDN_DOMAIN}}/img/astro_ceria.png", Astro Ceria(M)
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="AstroCeria.my" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png", Astro Ceria(M)
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroCitra.my" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra-(free)
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
