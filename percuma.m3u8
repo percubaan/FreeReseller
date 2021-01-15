@@ -42,4 +42,36 @@ https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b20640
 #EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://resources.redbull.com/logos/redbullcom/v1/redbullcom-logo.svg",Red Bull TV-(free)
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+#EXTINF:-1 tvg-id="ERA" tvg-name="ERA" group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/era.png", ERA
+https://astro2.rastream.com/era
 
+#EXTINF:-1 tvg-id="SINAR" tvg-name="SINAR" group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/sinar.png", SINAR
+https://astro2.rastream.com/sinar
+
+#EXTINF:-1 tvg-id="HOT" tvg-name="HOT" group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/hot.png", HOT FM
+https://mediaprima.rastream.com/mediaprima-hotfm.android
+
+#EXTINF:-1 tvg-id="SURIA" tvg-name="SURIA" group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/suria-fm.png", SURIA
+https://22273.live.streamtheworld.com/SURIA_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&pname=tdwidgets&pversion=2.9&banners=none&sbmid=990e41d9-a394-4612-f85a-1431c8afb0a4
+
+#EXTINF:-1 tvg-id="HITZ" tvg-name="HITZ" group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/hitz.png", HITZ
+https://astro1.rastream.com/hitz
+
+#EXTINF:-1 tvg-id="GEGAR" tvg-name="GEGAR" group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/thr-kuala-lumpur.png", GEGAR
+https://astro3.rastream.com/gegar
+
+#EXTINF:-1 tvg-id="KOOL" tvg-name="KOOL" group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/kool.png", KOOL
+https://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1 tvg-id="FLY" tvg-name="FLY" group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/fly.png", FLY FM
+https://mediaprima.rastream.com/mediaprima-flyfm
+
+#EXTINF:-1 tvg-id="ONE" tvg-name="ONE" group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/one-fm.png", ONE FM
+https://mediaprima.rastream.com/mediaprima-onefm
+
+
+#EXTINF:-1 tvg-id="MIX" tvg-name="MIX" group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/mix-fm.png", MIX
+https://astro2.rastream.com/mix
+
+#EXTINF:-1 tvg-id="MANIS" tvg-name="MANIS" group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/manis.png", MANIS
+https://hls.rastream.com:443/husa-manis.web.hls/playlist.m3u8?listeningSessionID=5f9ebd11f7c31651_6392213_mIJBlfKJ_MTAzLjIxLjgxLjk6ODA!_000000fjT66&downloadSessionID=0&awparams=companionads%3Afalse%3Btags%3Aradioactive%3Bstationid%3Ahusa-manisfm&playerid=ManisFM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MTA2MzAxNzEsImV4cCI6MTYxMDcxNjU3MX0.QmHROWQbDcGgDeQtSMrnJFmGcEQ7xiq5LzpYNHb6l0E&lan=%5B%22ms%22%2C%22en%22%5D&setLanguage=true&listenerid=3d707074450d54190db691ce0a4fc6d2
