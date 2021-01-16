@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="info" tvg-name="info" group-title="Malaysia" tvg-logo="https://i.ibb.co/x1XhPKW/Whats-App-Image-2021-01-12-at-8-39-55-PM-1.jpg", >>PLAY SINI<<
-https://www.dropbox.com/s/g9lw6rdw55bg3e4/WhatsApp%20Video%202021-01-13%20at%205.13.25%20PM.mp4?dl=1
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="AstroRia.my" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png", Astro Ria(M)
-https://raw.githubusercontent.com/percubaan/cuba/master/riah.m3u8
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="AstroCeria.my" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png", Astro Ceria(M)
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroCitra.my" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra-(free)
@@ -69,9 +65,8 @@ https://mediaprima.rastream.com/mediaprima-flyfm
 #EXTINF:-1 tvg-id="ONE" tvg-name="ONE" group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/one-fm.png", ONE FM
 https://mediaprima.rastream.com/mediaprima-onefm
 
-
 #EXTINF:-1 tvg-id="MIX" tvg-name="MIX" group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/mix-fm.png", MIX
 https://astro2.rastream.com/mix
 
 #EXTINF:-1 tvg-id="MANIS" tvg-name="MANIS" group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/manis.png", MANIS
-https://hls.rastream.com:443/husa-manis.web.hls/playlist.m3u8?listeningSessionID=5f9ebd11f7c31651_6392213_mIJBlfKJ_MTAzLjIxLjgxLjk6ODA!_000000fjT66&downloadSessionID=0&awparams=companionads%3Afalse%3Btags%3Aradioactive%3Bstationid%3Ahusa-manisfm&playerid=ManisFM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MTA2MzAxNzEsImV4cCI6MTYxMDcxNjU3MX0.QmHROWQbDcGgDeQtSMrnJFmGcEQ7xiq5LzpYNHb6l0E&lan=%5B%22ms%22%2C%22en%22%5D&setLanguage=true&listenerid=3d707074450d54190db691ce0a4fc6d2
+https://live-ak.vimeocdn.com/exp=1610843063~acl=%2Fe69ad150-8297-429b-8e43-3696f9a55961%2F%2A~hmac=bfeff7d179e93e53b66d6d7207f9e9707e4f926a2673ec99bfbc796b3cbba17e/e69ad150-8297-429b-8e43-3696f9a55961/hls.m3u8
