@@ -15,12 +15,24 @@ http://ts.lemmovie.com/4e402bba-d563-4f5a-8c48-75ea8bd8a44a.m3u8
 http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 #EXTINF:-1 tvg-id="Arena" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png", Astro Arena-(Test)
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTM Sports" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/RTM_HD_Sports.png/220px-RTM_HD_Sports.png",RTM Sports-(free)
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP1.my" group-title="Sports" tvg-logo="", BT SPORT 1-(Test)
+https://sportbar.biz/lba/MzNiMDJhY2ZmNmM4Mjg2NDk5NGUyNmUxNmM3NGE0YzQ=/g1/btuk1.m3u8?token=MzNiMDJhY2ZmNmM4Mjg2NDk5NGUyNmUxNmM3NGE0YzQ=&id=MjY4NmJlOTE2OTdlNTNmODE0ZDU0NzZkOGM0MjVkYzY=&vip=1611492908&dip=ZjkwM2Q4ODA0ZDAzZjhkNzk3MGRmNWU4ZjIzMjdiNDk=&pip=MDZlNGU3ODY0YzdiOTg1MWFkOGM2YjU3ZWYzOGVmNzY=&hip=NDFjMTI3ODhiNmE5MjU2ODhjOGUwYzFkNGRlMGUzZGI=
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2.my" group-title="Sports" tvg-logo="", BT SPORT 2-(Test)
+https://sportbar.biz/lba/NzU1YjU1MDRiZjM4MDQwNWNhMTgxNjJkNGM4MDhlZWY=/g3/ukbt2sport.m3u8?token=NzU1YjU1MDRiZjM4MDQwNWNhMTgxNjJkNGM4MDhlZWY=&id=NzE5NjAwNTk5MTJkNjg0NWI0NTFkMWU5ODI3ZTBmYjA=&vip=1611493245&dip=MmViODZhZGE4NmM4OTUyZjBiZjk5OWZkOTYzZDhkZjA=&pip=MDZlNGU3ODY0YzdiOTg1MWFkOGM2YjU3ZWYzOGVmNzY=&hip=NDFjMTI3ODhiNmE5MjU2ODhjOGUwYzFkNGRlMGUzZGI=
 
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP1.my" group-title="Sports" tvg-logo="https://{{MACAN_CDN_DOMAIN}}/img/assp.png", Assp 1-(Test)
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2.my" group-title="Sports" tvg-logo="https://{{MACAN_CDN_DOMAIN}}/img/assp2.png", Assp 2-(Test)
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3.my" group-title="Sports" tvg-logo="https://{{MACAN_CDN_DOMAIN}}/img/assp3.png", Assp 3-(Test)
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4.my" group-title="Sports" tvg-logo="https://{{MACAN_CDN_DOMAIN}}/img/assp4.png", Assp 4-(Test)
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1 tvg-id="TV1.my" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/TV1_Logo_2011.png/100px-TV1_Logo_2011.png",TV1-(free)
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
-
 #EXTINF:-1 tvg-id="TV2.my" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/TV2_Logo_2011.png/100px-TV2_Logo_2011.png",TV2-(free)
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3.my" group-title="Malaysia" tvg-logo="https://{{MACAN_CDN_DOMAIN}}/img/tv3.png", TV3-(Test) 
