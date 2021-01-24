@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="AstroRia.my" group-title="Malaysia" tvg-logo="https://{{MACAN_CDN_DOMAIN}}/img/astro_ria.png", Astro Ria-(Test)
+http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="AstroCeria.my" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png", Astro Ceria(M)
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroCitra.my" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra-(free)
@@ -21,8 +23,10 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.
 
 #EXTINF:-1 tvg-id="TV2.my" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/TV2_Logo_2011.png/100px-TV2_Logo_2011.png",TV2-(free)
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/tv3.png", TV3-(Test) 
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3.my" group-title="Malaysia" tvg-logo="https://{{MACAN_CDN_DOMAIN}}/img/tv3.png", TV3-(Test) 
 http://50.7.222.130:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3.my" group-title="Malaysia" tvg-logo="https://{{MACAN_CDN_DOMAIN}}/img/tv3.png", TV3-(Test2)
+http://50.7.222.130:8278/streams/d/TV3sd/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV7" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7-(free)
 https://raw.githubusercontent.com/percubaan/cuba/master/Ntb7.m3u8
 #EXTINF:-1 tvg-id="8TV" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png",8TV-(free)
